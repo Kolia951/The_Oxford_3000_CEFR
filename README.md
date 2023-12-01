@@ -1,7 +1,9 @@
 # The Oxford 3000™ by CEFR level
-This repository contains a text file of the "Oxford 300 grouped by CEFR level"
+This repository contains a text file of the "Oxford 300 grouped by CEFR level".
+
 CEFR is "Common European Framework of Reference for Languages"
-The data is derived from https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf
+
+The data is derived from [HERE](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf)
 
 ## Contents
 The repository contains the following items:
