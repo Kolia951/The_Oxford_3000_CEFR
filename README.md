@@ -7,7 +7,7 @@ The data is derived from [HERE](https://www.oxfordlearnersdictionaries.com/exter
 
 ## Contents
 The repository contains the following items:
-1. `package.txt` - this is a .txt file that contains the JSON serialized string of the Oxford 300 grouped by CEFR level.
+1. `package.txt` - this is a .txt file that contains the JSON serialized string of the Oxford 3000 grouped by CEFR level.
 2. `The_Oxford_3000_by_CEFR_level.pdf` - this is an initial file for package.txt.
 
 ## Data Format
