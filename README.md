@@ -23,7 +23,7 @@ The data in the file follows this general structure:
   "B2": ["word7", "word8"],
 }
 ```
-Lists of words for every level have benn sorted in alphabetical order.
+Lists of words for every level have been sorted in alphabetical order.
 
 ## How to Use
 You can use this data in your programming projects to generate language learning exercises or try to define (approximately) the level of English of a user.
